@@ -1,0 +1,13 @@
+Source: vx-desktop-icons
+Section: gnome
+Priority: extra
+Maintainer: Jose Antonio Chavarría <jachavar@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux/vx-desktop-icons
+
+Package: vx-desktop-icons
+Architecture: all
+Depends: ${misc:Depends}
+Description: Vitalinux icon themes.
+ Includes Humanity, elementary, lubuntu and gnome icons.
