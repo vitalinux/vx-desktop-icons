@@ -1,15 +1,11 @@
 Format: http://dep.debian.net/deps/dep5
 Upstream-Name: vx-desktop-icons
 
-Files: usr/share/icons/*
-Copyright: Ubuntu Team,
-           Lubuntu Team  <https://launchpad.net/~lubuntu-desktop/+archive/ppa>,
-           Team Gnome  <http://www.gnome.org/>,
-           Humanity Colors: "RAVEfinity" Jared Sot  <http://www.ravefinity.com/>,
-           Elementary: "DanRabbit" Daniel Foré  <http://elementaryos.org/>
-License: GPL
+Files: usr/share/icons/vitalinux/*.svg
+Copyright: 2013 Alberto Gacías <albertogacias@gmail.com>
+License: GPL-3.0+
 
-Files: debian/*
+Files: usr/share/icons/vitalinux/index.theme debian/*
 Copyright: 2013 Jose Antonio Chavarría <jachavar@gmail.com>
 License: GPL-3.0+
 
