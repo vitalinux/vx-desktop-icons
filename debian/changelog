@@ -1,3 +1,13 @@
+vx-desktop-icons (1.1-1) unstable; urgency=low
+
+  * Se borran los iconos anteriores y sólo se ponen iconos añadidos. El tema
+    hereda de ubuntu-mono-dark, que es el tema que combina con Ambiance
+    (closes #2).
+  * Se añade el icono distributor-logo en SVG (hecho por Alberto Gacías)
+    (closes #1).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Thu, 26 Dec 2013 16:11:37 +0200
+
 vx-desktop-icons (1.0-1) unstable; urgency=low
 
   * Se incluyen iconos de los temas Humanity, elementary, lubuntu y gnome.
