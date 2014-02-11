@@ -1,3 +1,10 @@
+vx-desktop-icons (1.2-1) unstable; urgency=low
+
+  * Se cambia el icono start-here por uno más apropiado para el resto de iconos
+    (closes #26).
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Tue, 11 Feb 2014 17:12:37 +0200
+
 vx-desktop-icons (1.1-1) unstable; urgency=low
 
   * Se borran los iconos anteriores y sólo se ponen iconos añadidos. El tema
